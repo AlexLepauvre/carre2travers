@@ -20,5 +20,3 @@ L'anniversaire se fêtera sur deux jours (XXX et XXX). Tous les invités sont le
 
 # Les regles du jeux
 Étant donné l'ampleur de l'événement, nous attendons de chacun une conduite respectueuse. Nous avons préparé une charte de bonne conduite que nous attendons que tous les invités respectent durant l'événement.
-
-
