@@ -2,10 +2,40 @@
 layout: post
 title: Alex Lepauvre
 subtitle: Membre emerite de l'association du carre 2 travers
-categories: membres
-tags: membres
+category: membres
 banner:
   image: /assets/images/banners/home.jpg
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/alex.jpg" alt="AlexLepauvre" />
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/alex.jpg" alt="AlexLepauvre" style="float: right; width: 300px; height: auto;"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
