@@ -8,4 +8,4 @@ banner:
   image: /assets/images/banners/home.jpg
 ---
 
-<img src="assets/images/banners/AlexLepauvre.PNG" alt="AlexLepauvre" class="right-image">
+<img src="https://github.com/AlexLepauvre/carre2travers/blob/master/assets/images/banners/AlexLepauvre.PNG" alt="AlexLepauvre" class="right-image">
