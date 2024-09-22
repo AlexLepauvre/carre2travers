@@ -2,12 +2,10 @@
 layout: post
 title: Alex Lepauvre
 subtitle: Membre emerite de l'association du carre 2 travers
-categories: markdown
-tags: [example, markdown]
+categories: membres
+tags: membres
 banner:
   image: /assets/images/banners/home.jpg
 ---
 
-
-[AlexLepauvre](https://github.com/AlexLepauvre/carre2travers/blob/master/assets/images/members/AlexLepauvre.jpg)
-
+<img src="{{site.baseurl | prepend: site.url}}assets/images/alex.jpg" alt="AlexLepauvre" />
