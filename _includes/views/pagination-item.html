@@ -21,10 +21,11 @@
 {%- include functions.html func='get_value' -%}
 {%- assign default_image = return -%}
 
-{%- assign post_image = post.images[1]
-  | default: post.excerpt_image
-  | default: post.banner.image
-  | default: post.banner
+{%- capture images_from_html -%}
+  {{ post.content | split:'<img' | last | split:'src="' | last | split:'"' | first }}
+{%- endcapture -%}
+
+{%- assign post_image = images_from_html
   | default: default_image
   | default: '/assets/images/default-image.jpeg' -%}
 

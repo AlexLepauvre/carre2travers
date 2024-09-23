@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/alex.jpg" alt="AlexLepauvre" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/SimeonLepauvre.jpg" alt="SimeonLepauvre" style="float: right; width: 300px; height: auto;"/>
 
 
 

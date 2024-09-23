@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marine Brault
+title: Xavier Lecoq
 subtitle: Membre emerite de l'association du carre 2 travers
 category: [membres, home]
 banner:
@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/Placeholder.jpg" alt="MarineBrault" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/Placeholder.jpg" alt="XavierLecoq" style="float: right; width: 300px; height: auto;"/>
 
 
 
