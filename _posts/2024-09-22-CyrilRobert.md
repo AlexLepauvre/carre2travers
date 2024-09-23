@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Alex Lepauvre
-subtitle: Membre emerite de l'association du carre 2 travers
-category: membres
+title: Cyril Robert
+subtitle: Intendant general
+category: [membres, home]
 banner:
   image: /assets/images/banners/home.jpg
   opacity: 0.618

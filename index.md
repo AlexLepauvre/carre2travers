@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "home"
+category: home
 ---
 
 # Vous etes cordialement invites a l'anniversaire des membres de l'association du CARRE2TRAVERS
