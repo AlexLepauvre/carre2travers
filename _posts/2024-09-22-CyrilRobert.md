@@ -15,8 +15,6 @@ banner:
 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/CyrilRobert.jpg" alt="CyrilRobert" style="float: right; width: 300px; height: auto;"/>
 
-
-
 Taille 6' 1'' / 186cm
 Tour de poitrine 38'' / 97cm
 Tour de taille 31½'' / 80cm
