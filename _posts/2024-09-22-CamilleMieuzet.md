@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/Placeholder.jpg" alt="CamilleMieuzet" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/CamilleMieuzet.jpeg" alt="CamilleMieuzet" style="float: right; width: 300px; height: auto;"/>
 
 
 

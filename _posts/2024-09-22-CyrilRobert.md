@@ -13,7 +13,18 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/Placeholder.jpg" alt="CyrilRobert" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/CyrilRobert.jpg" alt="CyrilRobert" style="float: right; width: 300px; height: auto;"/>
+
+
+
+Taille 6' 1'' / 186cm
+Tour de poitrine 38'' / 97cm
+Tour de taille 31½'' / 80cm
+Hanches 35½'' / 90cm
+Pointure 9 us / 43 eu
+Cheveux Brun foncé
+Yeux: Noisette
+
 
 
 
