@@ -158,6 +158,8 @@ header_pages:
   - association.md
   - info.md
 
+social_image: /assets/images/banners/Carre2Travers.jpg
+
 # Page default value
 defaults:
   home:
