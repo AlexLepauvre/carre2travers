@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simeon Lepauvre
-subtitle: Membre emerite de l'association du carre 2 travers
+subtitle: Gérant des toilettes, parce que c'est le rôle qui correspond le mieux à ma personnalité.
 category: [membres, home]
 banner:
   image: /assets/images/banners/home.jpg
