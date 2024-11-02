@@ -13,6 +13,8 @@ banner:
   subheading_style: "color: gold"
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 Cela va sans dire que le bien-être de nos invités nous tient extrêmement à cœur. Un anniversaire réussi signifie pour nous qu'il n'y ait pas eu une seule minute d'inconfort pour nos invités, y compris dans les moments où ils doivent disposer de leurs déchets corporels.
 
 Mais alors, voilà, c'est la première fois que nous organisons un événement de cette ampleur. Une question d'importance capitale se pose : de combien de toilettes avons-nous vraiment besoin pour assurer le confort de nos invités ? Malgré l'intérêt commun de nos organisateurs, une discorde est née. Certains considèrent les estimations des autres complètement désproportionnées, tandis que ces autres trouvent que les estimations des certains reflètent une large sous-estimation du volume d'efflux corporel que vous (nos invités) allez produire. D'autres encore se demandent bien pourquoi on devrait s'embêter avec des toilettes (mais on les écoute pas trop, ceux-là).
@@ -32,7 +34,7 @@ Le probleme auquel nous faisons face peut etre adresse de facons logique, avec l
 Pour évaluer l'accumulation des déchets humains lors d'une fête, nous avons développé un modèle de simulation prenant en compte la configuration des installations sanitaires et les caractéristiques des invités. La configuration sanitaire est définie par les paramètres suivants :
 
 - Nombre de toilettes normales ($N$) : Représente le nombre total de toilettes conventionnelles disponibles.
-- Nombre de pissoirs ($M$) : Indique le nombre de seaux destinés spécifiquement aux invités masculins.
+- Nombre de pissoirs ($M$) : Indique le nombre de seaux destinés spécifiquement aux mictions d'urine.
 - Capacité d'une toilette normale ($C_{\text{toilette}}$) : Volume maximal que peut contenir une toilette normale, exprimé en litres.
 - Capacité d'un seau ($C_{\text{seau}}$) : Volume maximal que peut contenir un seau pour pissoirs, exprimé en litres.
 
@@ -46,7 +48,7 @@ $$V_{totale}=V_{toilettes}+V_{seaux}$$
 Les invités à la fête sont caractérisés par les paramètres suivants :
 
 - Nombre total de personnes ($P$) : Nombre d'invités présents.
-- Balance d'utilisateurs de pissoirs' ($r_{\text{utilisateurs pissoirs}}$) et proportion d'utilisateurs de toilettes ($r_{\text{utilisateurs toilettes}}$) : Taux de répartition des genres parmi les invités, tels que $r_{\text{utilisateurs pissoirs}} + r_{\text{utilisateurs toilettes}} = 1$.
+- Proportion d'utilisateurs de pissoirs ($r_{\text{utilisateurs pissoirs}}$) et d'utilisateurs de toilettes ($r_{\text{utilisateurs toilettes}}$), tels que $r_{\text{utilisateurs pissoirs}} + r_{\text{utilisateurs toilettes}} = 1$.
 - Proportion de invités effectuant des défécations ($r_{\text{défécation}}$) : Fraction des invités susceptibles de produire des excréments lors de la fête.
 - Proportion de mâles susceptibles d'uriner en pleine nature ($r_{\text{bush}}$) : Taux de masculins qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
 
