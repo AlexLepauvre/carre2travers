@@ -23,7 +23,8 @@ Mais alors, que faire ? Une seule solution : laisser la science parler !
 
 # Aux petits besoins les grands moyens
 
-Le probleme auquel nous faisons face peut etre adresse de facons logique, avec l'aide des avances technologique moderne. Nous avons cree un logical pour simuler la production de dechets corporel dans le temps (d'une soiree ou plus), en fonction de la configuration sanitaire de l'evenement. Ce logiciel porte le doux nom de H.W.M.S.: Human Waste Management Simulator. Avons de presenter les resultats de cette etudes, nous allons introduire les details techniques, pour convaincre les lecteurs de la validite de notre approche.
+Le problème auquel nous faisons face peut être adressé de façon logique, avec l'aide des avancées technologiques modernes. Nous avons créé un logiciel pour simuler la production de déchets corporels dans le temps (d'une soirée ou plus), en fonction de la configuration sanitaire de l'événement. Ce logiciel porte le doux nom de H.W.M.S. : Human Waste Management Simulator. Avant de présenter les résultats de cette étude, nous allons introduire les détails techniques, pour convaincre les lecteurs de la validité de notre approche.
+
 
 ## Methodes
 
