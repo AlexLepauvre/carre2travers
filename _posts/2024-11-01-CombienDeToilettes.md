@@ -33,33 +33,36 @@ Le probleme auquel nous faisons face peut etre adresse de facons logique, avec l
 
 Pour évaluer l'accumulation des déchets humains lors d'une fête, nous avons développé un modèle de simulation prenant en compte la configuration des installations sanitaires et les caractéristiques des invités. La configuration sanitaire est définie par les paramètres suivants :
 
-- Nombre de toilettes normales ($N$) : Représente le nombre total de toilettes conventionnelles disponibles.
-- Nombre de pissoirs ($M$) : Indique le nombre de seaux destinés spécifiquement aux mictions d'urine.
-- Capacité d'une toilette normale ($C_{\text{toilette}}$) : Volume maximal que peut contenir une toilette normale, exprimé en litres.
-- Capacité d'un seau ($C_{\text{seau}}$) : Volume maximal que peut contenir un seau pour pissoirs, exprimé en litres.
+- Nombre de toilettes normales ($$N$$) : Représente le nombre total de toilettes conventionnelles disponibles.
+- Nombre de pissoirs ($$M$$) : Indique le nombre de seaux destinés spécifiquement aux mictions d'urine.
+- Capacité d'une toilette normale ($$C_{\text{toilette}}$$) : Volume maximal que peut contenir une toilette normale, exprimé en litres.
+- Capacité d'un seau ($$C_{\text{seau}}$$) : Volume maximal que peut contenir un seau pour pissoirs, exprimé en litres.
 
 La capacité totale des installations sanitaires est ainsi calculée par :
+
 $$V_{toilettes}=N\times C_{toilette}$$
+
 $$V_{seaux}=M×C_{seau}$$
+
 $$V_{totale}=V_{toilettes}+V_{seaux}$$
 
 #### Caractéristiques des invités
 
 Les invités à la fête sont caractérisés par les paramètres suivants :
 
-- Nombre total de personnes ($P$) : Nombre d'invités présents.
-- Proportion d'utilisateurs de pissoirs ($r_{\text{utilisateurs pissoirs}}$) et d'utilisateurs de toilettes ($r_{\text{utilisateurs toilettes}}$), tels que $r_{\text{utilisateurs pissoirs}} + r_{\text{utilisateurs toilettes}} = 1$.
-- Proportion de invités effectuant des défécations ($r_{\text{défécation}}$) : Fraction des invités susceptibles de produire des excréments lors de la fête.
-- Proportion de mâles susceptibles d'uriner en pleine nature ($r_{\text{bush}}$) : Taux de masculins qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
+- Nombre total de personnes ($$P$$) : Nombre d'invités présents.
+- Proportion d'utilisateurs de pissoirs ($$r_{\text{utilisateurs pissoirs}}$$) et d'utilisateurs de toilettes ($$r_{\text{utilisateurs toilettes}}$$), tels que $$r_{\text{utilisateurs pissoirs}} + r_{\text{utilisateurs toilettes}} = 1$$.
+- Proportion de invités effectuant des défécations ($$r_{\text{défécation}}$$) : Fraction des invités susceptibles de produire des excréments lors de la fête.
+- Proportion de mâles susceptibles d'uriner en pleine nature ($$r_{\text{bush}}$$) : Taux de masculins qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
 
 Chaque participant est modélisé par deux principales activités :
 
 1. Miction :
-- Fréquence moyenne ($\lambda_{\text{pee}}$) : Nombre moyen d'événements de miction par jour.
-- Volume moyen par événement ($v_{\text{pee}}$) : Quantité d'urine produite lors d'un événement de miction, exprimée en litres.
+- Fréquence moyenne ($$\lambda_{\text{pee}}$$) : Nombre moyen d'événements de miction par jour.
+- Volume moyen par événement ($$v_{\text{pee}}$$) : Quantité d'urine produite lors d'un événement de miction, exprimée en litres.
 1. Défécation (si applicable) :
-- Fréquence moyenne ($\lambda_{\text{poo}}$) : Nombre moyen d'événements de défécation par jour.
-- Volume moyen par événement ($v_{\text{poo}}$) : Quantité d'excréments produite lors d'un événement de défécation, exprimée en litres.
+- Fréquence moyenne ($$\lambda_{\text{poo}}$$) : Nombre moyen d'événements de défécation par jour.
+- Volume moyen par événement ($$v_{\text{poo}}$$) : Quantité d'excréments produite lors d'un événement de défécation, exprimée en litres.
 
 Ces paramètres sont modélisés à l'aide de distributions statistiques pour refléter la variabilité individuelle entre les invités.
 
@@ -67,11 +70,14 @@ Ces paramètres sont modélisés à l'aide de distributions statistiques pour re
 
 La simulation se déroule sur une période de temps divisée en intervalles réguliers ($\Delta t$, par exemple, une heure). À chaque intervalle de temps $t$, les étapes suivantes sont exécutées :
 
-1. Détermination des Événements : Pour chaque participant, les événements de miction et de défécation sont déterminés de manière probabiliste en fonction de leurs fréquences moyennes. La probabilité qu'un participant $i$ effectue une miction durant l'intervalle $t$ est donnée par :
+1. Détermination des Événements : Pour chaque participant, les événements de miction et de défécation sont déterminés de manière probabiliste en fonction de leurs fréquences moyennes. La probabilité qu'un participant $$i$$ effectue une miction durant l'intervalle $$t$$ est donnée par :
+
 $$P_{pee,i}(t)=1−e^{−λ_{pee,i}\timesΔt}$$
+
 $$P_{pee,i}​(t)=1−e^{−λ_{pee,i}​\timesΔt}$$
 
 De même, pour la défécation :
+
 $$
 P_{poo,i}(t) =  \begin{cases}
 P_{poo,i}​(t)=1−e^{−λ_{poo,i}​\timesΔt} & si\ r_{defecation}=1\\
@@ -88,28 +94,35 @@ Ces probabilités sont utilisées pour déterminer stochastiquement si un évén
 ##### Miction :
 
 Si le participant est un utilisateur de pissoirs et que la capacité des pissoirs n'est pas atteinte, le volume d'urine produit est ajouté aux seaux :
+
 $$V_{seau}(t)=V_{seau}(t−1)+v_{pee,i}\times(1+\alpha)$$
+
 $$V_{seau}​(t)=V_{seau}​(t−1)+v_{pee,i}​\times(1+\alpha)$$
 
-où $\alpha$ représente le ratio de sciure ajouté au volume des déchets.
+où $$\alpha$$ représente le ratio de sciure ajouté au volume des déchets.
 
-Si les seaux sont pleins et que le participant choisit de se soulager en pleine nature ($r_{\text{bush}} = 1$), l'urine n'est pas ajoutée aux installations sanitaires.
+Si les seaux sont pleins et que le participant choisit de se soulager en pleine nature ($$r_{\text{bush}} = 1$$), l'urine n'est pas ajoutée aux installations sanitaires.
 
 Sinon, le volume est redirigé vers les toilettes normales :
+
 $$V_{toilette}(t)=V_{toilette}(t−1)+v_{pee,i}×(1+α)$$
+
 $$V_{toilette}​(t)=V_{toilette​}(t−1)+v_{pee,i}​×(1+α)$$
 
 ##### Défécation :
 
 Si le participant effectue une défécation, le volume est directement ajouté aux toilettes normales :
+
 $$V_{toilette}(t)=V_{toilette}(t−1)+v_{poo},i\times(1+\alpha)$$
+
 $$V_{toilette​}(t)=V_{toilette​}(t−1)+v_{poo},i​\times(1+\alpha)$$
 
 3. Gestion des Débordements : 
 
-Si, après ajout, le volume dans les toilettes normales dépasse leur capacité totale ($V_{\text{toilette}}(t) > V_{\text{toilettes totales}}$), un débordement est modélisé en limitant le volume à la capacité maximale :
+Si, après ajout, le volume dans les toilettes normales dépasse leur capacité totale ($$V_{\text{toilette}}(t) > V_{\text{toilettes totales}}$$), un débordement est modélisé en limitant le volume à la capacité maximale :
 
 $$V_{toilette}(t)=min⁡(V_{toilette}(t),V_{toilettes totales})$$
+
 $$V_{toilette}​(t)=min(V_{toilette​}(t),V_{toilettes totales​})$$
 
 Les déchets excédentaires ne sont pas pris en compte dans le modèle.
@@ -120,6 +133,7 @@ Les déchets excédentaires ne sont pas pris en compte dans le modèle.
 À chaque intervalle de temps $t$, le volume total des déchets accumulés est calculé en sommant les volumes présents dans les pissoirs et les toilettes normales :
 
 $$V_{total}(t)=V_{seau}(t)+V_{toilette}(t)$$
+
 $$V_{total​}(t)=V_{seau}​(t)+V_{toilette}​(t)$$
 
 Ce calcul permet de suivre l'évolution de l'accumulation des déchets au fil du temps et d'évaluer la capacité des installations sanitaires à gérer la charge produite par les invités.
@@ -142,11 +156,11 @@ $$
 
 Où :
 
-- $M$ est l'ensemble des invités masculins.
-- $\mathbb{1}_{\cdot}$ est la fonction indicatrice qui vaut 1 si la condition est vraie, sinon 0.
-- $\alpha$ est le ratio de sciure ajoutée aux déchets.
-- $\text{pee}_i(t)$ et $\text{poo}_i(t)$ indiquent si le participant $i$ effectue une miction ou une défécation à l'instant $t$.
-- $\text{seau disponible}$ et $\text{toilette utilisée}$ indiquent si le seau est disponible pour l'ajout ou si les toilettes sont utilisées respectivement.
+- $$M$$ est l'ensemble des invités masculins.
+- $$\mathbb{1}_{\cdot}$$ est la fonction indicatrice qui vaut 1 si la condition est vraie, sinon 0.
+- $$\alpha$$ est le ratio de sciure ajoutée aux déchets.
+- $$\text{pee}_i(t)$$ et $\text{poo}_i(t)$$ indiquent si le participant $i$ effectue une miction ou une défécation à l'instant $t$.
+- $$\text{seau disponible}$$ et $$\text{toilette utilisée}$$ indiquent si le seau est disponible pour l'ajout ou si les toilettes sont utilisées respectivement.
 
 Ce cadre mathématique permet une représentation dynamique et probabiliste de l'accumulation des déchets humains dans le contexte d'une fête, prenant en compte les comportements individuels et les capacités des installations sanitaires.
 
