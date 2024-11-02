@@ -54,7 +54,7 @@ Les invités à la fête sont caractérisés par les paramètres suivants :
 - Nombre total de personnes ($$P$$) : Nombre d'invités présents.
 - Proportion d'utilisateurs de pissoirs ($$r_{\text{utilisateurs pissoirs}}$$) et d'utilisateurs de toilettes ($$r_{\text{utilisateurs toilettes}}$$), tels que $$r_{\text{utilisateurs pissoirs}} + r_{\text{utilisateurs toilettes}} = 1$$.
 - Proportion de invités effectuant des défécations ($$r_{\text{défécation}}$$) : Fraction des invités susceptibles de produire des excréments lors de la fête.
-- Proportion de mâles susceptibles d'uriner en pleine nature ($$r_{\text{bush}}$$) : Taux d'utilisateurs de pissoirs qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
+- Proportion d'utilsateurs de pissoirs susceptible' d'uriner en pleine nature ($$r_{\text{bush}}$$) : Taux d'utilisateurs de pissoirs qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
 
 Chaque participant est modélisé par deux principales activités :
 
