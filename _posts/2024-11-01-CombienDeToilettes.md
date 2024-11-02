@@ -98,8 +98,6 @@ Si le participant est un utilisateur de pissoirs et que la capacité des pissoir
 
 $$V_{seau}(t)=V_{seau}(t−1)+v_{pee,i}\times(1+\alpha)$$
 
-$$V_{seau}​(t)=V_{seau}​(t−1)+v_{pee,i}​\times(1+\alpha)$$
-
 où $$\alpha$$ représente le ratio de sciure ajouté au volume des déchets.
 
 Si les seaux sont pleins et que le participant choisit de se soulager en pleine nature ($$r_{\text{bush}} = 1$$), l'urine n'est pas ajoutée aux installations sanitaires.
@@ -108,23 +106,18 @@ Sinon, le volume est redirigé vers les toilettes normales :
 
 $$V_{toilette}(t)=V_{toilette}(t−1)+v_{pee,i}×(1+α)$$
 
-$$V_{toilette}​(t)=V_{toilette​}(t−1)+v_{pee,i}​×(1+α)$$
-
 ##### Défécation :
 
 Si le participant effectue une défécation, le volume est directement ajouté aux toilettes normales :
 
 $$V_{toilette}(t)=V_{toilette}(t−1)+v_{poo},i\times(1+\alpha)$$
 
-$$V_{toilette​}(t)=V_{toilette​}(t−1)+v_{poo},i​\times(1+\alpha)$$
 
-3. Gestion des Débordements : 
+1. Gestion des Débordements : 
 
 Si, après ajout, le volume dans les toilettes normales dépasse leur capacité totale ($$V_{\text{toilette}}(t) > V_{\text{toilettes totales}}$$), un débordement est modélisé en limitant le volume à la capacité maximale :
 
 $$V_{toilette}(t)=min⁡(V_{toilette}(t),V_{toilettes totales})$$
-
-$$V_{toilette}​(t)=min(V_{toilette​}(t),V_{toilettes totales​})$$
 
 Les déchets excédentaires ne sont pas pris en compte dans le modèle.
 
@@ -135,7 +128,6 @@ Les déchets excédentaires ne sont pas pris en compte dans le modèle.
 
 $$V_{total}(t)=V_{seau}(t)+V_{toilette}(t)$$
 
-$$V_{total​}(t)=V_{seau}​(t)+V_{toilette}​(t)$$
 
 Ce calcul permet de suivre l'évolution de l'accumulation des déchets au fil du temps et d'évaluer la capacité des installations sanitaires à gérer la charge produite par les invités.
 Représentation Mathématique Globale
@@ -157,10 +149,10 @@ $$
 
 Où :
 
-- $$M$$ est l'ensemble des invités masculins.
+- $$M$$ est l'ensemble des invités privilegiant les pissoirs.
 - $$\mathbb{1}_{\cdot}$$ est la fonction indicatrice qui vaut 1 si la condition est vraie, sinon 0.
 - $$\alpha$$ est le ratio de sciure ajoutée aux déchets.
-- $$\text{pee}_i(t)$$ et $\text{poo}_i(t)$$ indiquent si le participant $i$ effectue une miction ou une défécation à l'instant $t$.
+- $$\text{pee}_i(t)$$ et $$\text{poo}_i(t)$$ indiquent si le participant $$i$$ effectue une miction ou une défécation à l'instant $$t$$.
 - $$\text{seau disponible}$$ et $$\text{toilette utilisée}$$ indiquent si le seau est disponible pour l'ajout ou si les toilettes sont utilisées respectivement.
 
 Ce cadre mathématique permet une représentation dynamique et probabiliste de l'accumulation des déchets humains dans le contexte d'une fête, prenant en compte les comportements individuels et les capacités des installations sanitaires.
