@@ -107,8 +107,8 @@ $$V_{toilette​}(t)=V_{toilette​}(t−1)+v_{poo},i​\times(1+\alpha)$$
 
 Si, après ajout, le volume dans les toilettes normales dépasse leur capacité totale ($V_{\text{toilette}}(t) > V_{\text{toilettes totales}}$), un débordement est modélisé en limitant le volume à la capacité maximale :
 
-$$V_toilette(t)=min⁡(V_toilette(t),V_{toilettes totales})$$
-$$V_toilette​(t)=min(V_toilette​(t),V_{toilettes totales​})$$
+$$V_{toilette}(t)=min⁡(V_{toilette}(t),V_{toilettes totales})$$
+$$V_{toilette}​(t)=min(V_{toilette​}(t),V_{toilettes totales​})$$
 
 Les déchets excédentaires ne sont pas pris en compte dans le modèle.
 
@@ -117,8 +117,8 @@ Les déchets excédentaires ne sont pas pris en compte dans le modèle.
 
 À chaque intervalle de temps $t$, le volume total des déchets accumulés est calculé en sommant les volumes présents dans les pissoirs et les toilettes normales :
 
-$$V_total(t)=V_seau(t)+V_toilette(t)$$
-$$V_total​(t)=V_seau​(t)+V_toilette​(t)$$
+$$V_{total}(t)=V_{seau}(t)+V_{toilette}(t)$$
+$$V_{total​}(t)=V_{seau}​(t)+V_{toilette}​(t)$$
 
 Ce calcul permet de suivre l'évolution de l'accumulation des déchets au fil du temps et d'évaluer la capacité des installations sanitaires à gérer la charge produite par les invités.
 Représentation Mathématique Globale
@@ -126,13 +126,17 @@ Représentation Mathématique Globale
 En résumé, le modèle peut être représenté par les équations suivantes pour chaque intervalle de temps $t$ :
 
 $$
-\begin{cases}
-V_{\text{seau}}(t) = V_{\text{seau}}(t-1) + \sum_{i \in M} [v_{\text{pee}, i} \times (1 + \alpha) \times \mathbb{1}_{\text{pee}_i(t)} \times \mathbb{1}_{\text{seau disponible}} ]\\ 
-
-V_{\text{toilette}}(t) = V_{\text{toilette}}(t-1) + \sum_{i \in M} \left[ v_{\text{pee}, i} \times (1 + \alpha) \times \mathbb{1}_{\text{pee}_i(t)} \times \mathbb{1}_{\text{seau disponible}} + v_{\text{poo}, i} \times (1 + \alpha) \times \mathbb{1}_{\text{poo}_i(t)} \right] \\
-V_{\text{total}}(t) = V_{\text{seau}}(t) + V_{\text{toilette}}(t)
-\end{cases}
+V_{\text{seau}}(t) = V_{\text{seau}}(t-1) + \sum_{i \in M} [v_{\text{pee}, i} \times (1 + \alpha) \times \mathbb{1} \cdot \text{pee}_i(t) \times \mathbb{1} \cdot \text{seau disponible}]\\
 $$
+
+$$
+V_{\text{toilette}}(t) = V_{\text{toilette}}(t-1) + \\ \sum_{i \in M} [ v_{\text{pee}, i} \times (1 + \alpha) \times \mathbb{1} \cdot \text{pee}_i(t) \times \mathbb{1} \cdot \text{seau disponible} + v_{\text{poo, i}} \times (1 + \alpha) \times \mathbb{1} \cdot \text{poo}_i(t)]
+$$
+
+$$
+V_{\text{total}}(t) = V_{\text{seau}}(t) + V_{\text{toilette}}(t)
+$$
+
 
 Où :
 
