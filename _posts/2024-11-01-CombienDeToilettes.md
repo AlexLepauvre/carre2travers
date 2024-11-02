@@ -53,7 +53,7 @@ Les invités à la fête sont caractérisés par les paramètres suivants :
 - Nombre total de personnes ($$P$$) : Nombre d'invités présents.
 - Proportion d'utilisateurs de pissoirs ($$r_{\text{utilisateurs pissoirs}}$$) et d'utilisateurs de toilettes ($$r_{\text{utilisateurs toilettes}}$$), tels que $$r_{\text{utilisateurs pissoirs}} + r_{\text{utilisateurs toilettes}} = 1$$.
 - Proportion de invités effectuant des défécations ($$r_{\text{défécation}}$$) : Fraction des invités susceptibles de produire des excréments lors de la fête.
-- Proportion de mâles susceptibles d'uriner en pleine nature ($$r_{\text{bush}}$$) : Taux de masculins qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
+- Proportion de mâles susceptibles d'uriner en pleine nature ($$r_{\text{bush}}$$) : Taux d'utilisateurs de pissoirs qui, en cas de débordement des seaux, choisissent de se soulager en extérieur.
 
 Chaque participant est modélisé par deux principales activités :
 
@@ -68,7 +68,7 @@ Ces paramètres sont modélisés à l'aide de distributions statistiques pour re
 
 #### Simulation des Événements et Accumulation des Déchets
 
-La simulation se déroule sur une période de temps divisée en intervalles réguliers ($\Delta t$, par exemple, une heure). À chaque intervalle de temps $t$, les étapes suivantes sont exécutées :
+La simulation se déroule sur une période de temps divisée en intervalles réguliers ($$\Delta t$$, par exemple, une heure). À chaque intervalle de temps $$t$$, les étapes suivantes sont exécutées :
 
 1. Détermination des Événements : Pour chaque participant, les événements de miction et de défécation sont déterminés de manière probabiliste en fonction de leurs fréquences moyennes. La probabilité qu'un participant $$i$$ effectue une miction durant l'intervalle $$t$$ est donnée par :
 
@@ -201,7 +201,7 @@ Les résultats de cette étude sont illustrés par quatre GIF, chacun représent
 <figcaption>Fig.1 - 4 pissoirs 4 toilettes.</figcaption>
 </figure>
 
-Nous remarquons tout d'abord que peu importe la configuration des toilettes, les toilettes conventionnelles se remplissent plus vite que les pissoirs. Cela est tout à fait attendu. En effet, les toilettes conventionnelles sont utilisées non seulement par les femmes pour uriner (qui représentent 50 % des invités dans notre simulation), mais aussi par les déféculateurs. Les pissoirs en revanche ne sont utilisés que pour les mictions masculines. Il faut aussi remarquer que dans les cas où les pissoirs sont remplis avant les toilettes assises (deuxième et troisième images), la vitesse de remplissage des toilettes conventionnelles augmente. Cela aussi est prévisible. En cas de dépassement du volume des pissoirs, il y a un déport de certains utilisateurs des pissoirs vers les toilettes assises, tandis que d'autres iront satisfaire leurs besoins dans les buissons. Pour les simulations présentées dans les animations ci-dessus, nous avons estimé que 50 % des utilisateurs de pissoirs se déporteraient sur les toilettes assises en cas de débordement des pissoirs.
+Nous remarquons tout d'abord que peu importe la configuration des toilettes, les toilettes conventionnelles se remplissent plus vite que les pissoirs. Cela est tout à fait attendu. En effet, les toilettes conventionnelles sont utilisées non seulement par les femmes pour uriner (qui représentent 50 % des invités dans notre simulation), mais aussi par les déféculateurs. Les pissoirs en revanche ne sont utilisés que pour les mictions. Il faut aussi remarquer que dans les cas où les pissoirs sont remplis avant les toilettes assises (deuxième et troisième images), la vitesse de remplissage des toilettes conventionnelles augmente. Cela aussi est prévisible. En cas de dépassement du volume des pissoirs, il y a un déport de certains utilisateurs des pissoirs vers les toilettes assises, tandis que d'autres iront satisfaire leurs besoins dans les buissons. Pour les simulations présentées dans les animations ci-dessus, nous avons estimé que 50 % des utilisateurs de pissoirs se déporteraient sur les toilettes assises en cas de débordement des pissoirs.
 
 Enfin, pour répondre à nos questions principales (combien de toilettes nous faut-il et à quelle fréquence faudra-t-il vider les toilettes), il suffit de regarder l'heure à laquelle le volume total de déchets corporels excède notre capacité sanitaire (la ligne violette). Dans la configuration avec la plus petite capacité sanitaire (2 toilettes assises et 2 pissoirs), la capacité limite sera atteinte vers 2 h 30 du matin en moyenne, en assumant que les sanitaires soient vides à partir de 18 h. En d'autres termes, si les sanitaires sont vides une première fois à 18 h, le prochain vidage ne sera nécessaire qu'à 2 h du matin. En suivant les estimations les plus pessimistes (les 5 % les plus alarmants de notre simulation), il faudrait compter vider les toilettes aux alentours de 00 h 30 (minuit et demi).
 
