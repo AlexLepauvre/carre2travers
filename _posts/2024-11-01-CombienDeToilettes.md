@@ -75,8 +75,6 @@ La simulation se déroule sur une période de temps divisée en intervalles rég
 
 $$P_{pee,i}(t)=1−e^{−λ_{pee,i}\timesΔt}$$
 
-$$P_{pee,i}​(t)=1−e^{−λ_{pee,i}​\timesΔt}$$
-
 De même, pour la défécation :
 
 $$
@@ -86,11 +84,9 @@ P_{poo,i}​(t)=1−e^{−λ_{poo,i}​\timesΔt} & si\ r_{defecation}=1\\
 \end{cases}
 $$
 
-
-
 Ces probabilités sont utilisées pour déterminer stochastiquement si un événement se produit pour chaque participant à chaque intervalle de temps.
 
-2. Accumulation des Volumes :
+1. Accumulation des Volumes :
   
 ##### Miction :
 
