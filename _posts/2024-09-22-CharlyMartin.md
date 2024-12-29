@@ -4,7 +4,7 @@ title: Charly Martin
 subtitle: Surfeur d'un autre hemisphere
 category: [membres, home]
 banner:
-  image: /assets/images/banners/home.jpg
+  image: /assets/images/banners/posts_banner.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

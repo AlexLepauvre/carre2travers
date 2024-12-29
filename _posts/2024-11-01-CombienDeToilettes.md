@@ -4,7 +4,7 @@ title: Combien de toilettes nous faut il pour assurer le confort de nos invites?
 subtitle: 
 category: [info, home]
 banner:
-  image: /assets/images/banners/home.jpg
+  image: /assets/images/banners/posts_banner.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

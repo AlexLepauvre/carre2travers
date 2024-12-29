@@ -4,7 +4,7 @@ title: "Chronique du gravier: épisode 1"
 subtitle: 
 category: [blog, home]
 banner:
-  image: /assets/images/banners/home.jpg
+  image: /assets/images/banners/posts_banner.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
