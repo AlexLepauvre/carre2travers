@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/Placeholder.jpg" alt="KevinBrault" style="float: right; width: auto; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/KevinBrault.jpg" alt="KevinBrault" style="float: right; width: auto; height: auto;"/>
 
 # La version courte
 Vainqueur de la Grimpette du mont des avaloirs en 2008, jamais sans son gravel
