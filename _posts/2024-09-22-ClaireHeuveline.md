@@ -18,27 +18,3 @@ banner:
 # La version courte
 La vraie danseuse, c'est elle. Poussez vous sur le dancefloor
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
