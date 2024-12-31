@@ -4,21 +4,41 @@ title: "home"
 category: home
 ---
 
-# Vous etes cordialement invites aux 30 ans des membres de l'association du Carre de Travers
-Marquez la date sur votre calendrier de toute urgence, vous ne voudrez sûrement pas rater cet événement (prive, sur invitation).
-Vous êtes invités à l'anniversaire collectif de l'association du Carré de Travers. L'événement se tiendra sur 3 soirs :
-**Du 14 au 17 Aout** (plus d'informations ci-dessous).
+# Vous êtes cordialement invité·e·s à célébrer les 30 ans des membres de l'association du Carré de Travers !
 
-# L'association du Carre de Travers
-Cette association a été fondée spécialement pour l'événement (parce que c'était plus facile pour les sous et tout ça). Elle est constituée de 14 membres, tous fièrement originaires de la Mayenne (#53RPZ). Nous nous sommes connus au fil de nos vies respectives, certaines amitiés remontant à l'école maternelle, et certains se connaissent même depuis avant leur mise au monde (même si on ne peut pas vraiment dire qu'ils sont forcément amis). Et c'est cet éternel groupe d'amis qui a eu l'idée de faire une grosse fête tous ensemble, parce qu'en vrai, on n'aurait jamais eu le temps d'aller à 14 anniversaires des uns et des autres en un an.
+Réservez la date dès maintenant dans votre calendrier, cet événement exceptionnel (privé et sur invitation) est à ne pas manquer.
 
-# Un lieux Mythique: La Gauberdiere (aka la Groberdiere)
-Vous avez donc été invités par un membre de l'association à partager cette grande soirée d'anniversaire dans un lieu magique : La Gauberdiere (aka la Groberdiere), Colombier du Plessis. Cet endroit a une signification particulière pour les membres de l'association, et l'histoire de ce lieu sera relatée dans un post dédié (stay tuned!). Mais sans trop en dire, la Groberdiere est une propriété de 3 hectares et demi située dans le bocage mayennais. La propriété est dotée de deux petits étangs, parfaits pour la baignade lors des fortes chaleurs du mois d'août et les batailles de vase pour les plus aventureux. Également, les propriétaires des lieux (Mr et Mme Robert, les parents de Cyril Robert, fier membre de l'association) sont en pleine construction d'un barbecue et d'un four à pizza dont nous pourrons peut-être bénéficier le jour des célébrations (passur).
+Nous vous convions à célébrer ensemble les 30 ans collectifs des membres de l'association du Carré de Travers.
 
-# Le deroulement de l'evenement: un sacre programme
-L'anniversaire se fêtera sur trois jours (du 14 au 17 Aout). **Le premier soir (le 14 Aout) sera une soiree familale, ou seulement la famille sera conviee. Les amis sont invites du 15 au 17 Aout (le 15 a partir de quand vous voulez)**. Pour tous les invites, nourriture et boissons (biere, vin et soft) seront prevu: on va bien se regaler! 
+L'événement aura lieu sur trois soirées, du **14 au 17 août**, à **La Gaubardière, Colombiers-du-Plessis**.
 
-Nous n'attendons pas de cadeaux. A la place, une cagnotte sera mise en place et si vous souhaitez participer aux frais de l'evenemment (raboulez les thunes)!
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2231.7855870419817!2d-0.8366684243221806!3d48.39572613315505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48090d4cc679a421%3A0xf2a86a3b8cfa2660!2sLa%20Gauberdi%C3%A8re%2C%2053120%20Colombiers-du-Plessis!5e1!3m2!1sfr!2sfr!4v1735645950678!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-# Les regles du jeu
-Étant donné l'ampleur de l'événement, nous attendons de chacun une conduite respectueuse. Nous avons préparé une charte de bonne conduite que nous attendons que tous les invités respectent durant l'événement: voir ici. 
+ 
+**Le premier soir (14 août) sera une soirée familiale, réservée exclusivement à la famille. Les ami·e·s seront les bienvenu·e·s du 15 au 17 août** (à partir du 15 août, dès l’heure qui vous convient). Pour tou·te·s les invité·e·s, nourriture et boissons (bière, vin et boissons non alcoolisées) seront prévues.
+
+Les participant·e·s auront la possibilité de dormir sur place sous tente.
+
+# L'association du Carré de Travers
+Cette association regroupe 14 membres, tou·te·s fier·e·s de leurs origines mayennaises. Nous nous sommes rencontré·e·s au fil de nos vies respectives, certaines amitiés datant de l'école maternelle. Ce groupe d'ami·e·s inséparable a eu l'idée d'organiser une grande fête commune, car, soyons honnêtes, il aurait été difficile de trouver le temps pour célébrer 14 anniversaires individuels en une seule année !
+Les règles du jeu
+
+Nous ne souhaitons pas recevoir de cadeaux. À la place, une cagnotte sera mise en place pour celles et ceux qui souhaitent contribuer aux frais de l’événement.
+
+Compte tenu de l’ampleur de cette fête, nous attendons de tou·te·s un comportement respectueux. Une charte de bonne conduite a été rédigée, et nous invitons chaque participant·e à la respecter tout au long de l’événement : voir ici.
+
+# Inscriptions
+
+Pour faciliter l'organisation, nous avons créé deux formulaires à remplir selon votre invitation :
+- Si vous êtes convié·e en tant que membre de la famille, merci de répondre au premier formulaire.
+- Si vous êtes convié·e en tant qu’ami·e, merci de remplir le deuxième formulaire.
+
+Merci de nous transmettre vos réponses avant le **28 février** !
+
+
+## Formulaire Famille
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgbpLE0TwkVkHPSGVVk-7US-HPCrz8eN7U6V198264gbSjcQ/viewform?embedded=true" width="640" height="2586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## Formulaire Amis
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="640" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+

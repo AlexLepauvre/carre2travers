@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/Placeholder.jpg" alt="ClaireHeuveline" style="float: right; width: auto; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/ClaireHeuveline.jpg" alt="ClaireHeuveline" style="float: right; width: auto; height: auto;"/>
 
 # La version courte
 La vraie danseuse, c'est elle. Poussez vous sur le dancefloor
