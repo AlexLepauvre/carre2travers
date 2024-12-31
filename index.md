@@ -31,6 +31,5 @@ Compte tenu de l’ampleur de cette fête, nous attendons de tou·te·s un compo
 
 Pour faciliter l'organisation, nous avons créé deux formulaires à remplir par chaque invite. Merci de nous transmettre vos réponses avant le **28 février** !
 
-## Formulaire Amis
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="640" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
