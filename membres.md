@@ -1,5 +1,5 @@
 ---
 layout: category-articles
-title: "Vos hotes"
+title: "Hotes"
 category: membres
 ---
