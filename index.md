@@ -29,15 +29,7 @@ Compte tenu de l’ampleur de cette fête, nous attendons de tou·te·s un compo
 
 # Inscriptions
 
-Pour faciliter l'organisation, nous avons créé deux formulaires à remplir selon votre invitation :
-- Si vous êtes convié·e en tant que membre de la famille, merci de répondre au premier formulaire.
-- Si vous êtes convié·e en tant qu’ami·e, merci de remplir le deuxième formulaire.
-
-Merci de nous transmettre vos réponses avant le **28 février** !
-
-
-## Formulaire Famille
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgbpLE0TwkVkHPSGVVk-7US-HPCrz8eN7U6V198264gbSjcQ/viewform?embedded=true" width="640" height="2586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Pour faciliter l'organisation, nous avons créé deux formulaires à remplir par chaque invite. Merci de nous transmettre vos réponses avant le **28 février** !
 
 ## Formulaire Amis
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="640" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
