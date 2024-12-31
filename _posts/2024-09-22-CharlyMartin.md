@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charly Martin
-subtitle: Surfeur d'un autre hemisphere
+subtitle: Surfeur d'un autre hemisphere (invite d'honneur)
 category: [membres, home]
 banner:
   image: /assets/images/banners/posts_banner.jpg
@@ -14,6 +14,8 @@ banner:
 ---
 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/CharlyMartin.jpg" alt="CharlyMartin" style="float: right; width: auto; height: auto;"/>
+
+#
 
 Vainqueur du Oakley Pro Junior l'an passé, le Guadeloupéen Charly Martin revient dans le Médoc pour tenter de soulever une nouvelle fois le trophée. Rencontre.
 

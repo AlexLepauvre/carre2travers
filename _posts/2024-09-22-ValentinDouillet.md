@@ -15,14 +15,9 @@ banner:
 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/ValentinDouillet.jpg" alt="ValentinDouillet" style="float: right; width: auto; height: auto;"/>
 
+# La version courte
 
-
-
-
-a;dsjmsg
-
-
-lkadnfglnasfg
+En reconversion DJ, programme dans les hauts lieux de fetes parisiennes, et exceptionellement sous la grange de la Grauberdiere a 14h15 le 16 Aout
 
 
 

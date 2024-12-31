@@ -15,6 +15,8 @@ banner:
 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/CamilleMieuzet.jpeg" alt="CamilleMieuzet" style="float: right; width: auto; height: auto;"/>
 
+# La version courte
+Camille etait au college prive mais elle a su depasser les frontieres et imposer son style! 
 
 
 

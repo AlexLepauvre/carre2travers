@@ -15,6 +15,11 @@ banner:
 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/CyrilRobert.jpg" alt="CyrilRobert" style="float: right; width: auto; height: auto;"/>
 
+# La version courte
+La Groberdiere, c'est son terrain de jeu depus 1995. Sans aucun doute, le meilleur twerk de la region
+
+# Mensurations
+
 Taille 6' 1'' / 186cm
 
 Tour de poitrine 38'' / 97cm

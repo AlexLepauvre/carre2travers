@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estelle Lafontaine
-subtitle: Membre emerite de l'association du carre 2 travers
+subtitle: Vice-presidente
 category: [membres, home]
 banner:
   image: /assets/images/banners/posts_banner.jpg
@@ -15,6 +15,12 @@ banner:
 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/EstelleLafontaine.jpg" alt="EstelleLafontaine" style="float: right; width: auto; height: auto;"/>
 
+# La version courte
+Que dire de plus sur Estelle? En un mot: raisonnable. Une des premieres a avoir eu le permis, mais la derniere a pouvoir conduire post-fete.
+
+Bon a savoir: elle ne fera pas la vaisselle du weekend puisqu'elle la fait le premier soir de nos vacances a Barcelone
+
+# Biographie
 Nee et elever a Gorron, elle quitte son paturage natifs une premiere fois pour aller au Lycee Lavoisier, en internat. Et c'est a cette age que les amities durables se sont forme: les soiree, les apres-midi a s'ennuyer a Mayenne. Dans toutes les situations, Estelle a toujours apporter la bonne humeur, et son tact legendaire a participer a souder cette bande d'amis a jamais!
 
 Mais voila, Estelle a 18 ans, le temps de Lycee se termine. Les interets de chacuns nous separent. Estelle se dirige vers Angers, pour commencer ces etudes en STAPS: elle reve de devenir prof de sport. Heuresement pour elle, certains Mayennais partagent son interet pour le sport, et elle se retrouve avec Sarah et Marine. Et d'autres amis sont aussi a Angers: Alex, Cyril, Val et Jeanne. On grandis, on a moins le temps, mais on ne rate pas une seule occasion de s'amuser hihi
@@ -26,5 +32,3 @@ Apres une license et des voyages, que pourrait bien faire Estelle? C'est reparti
 Et comme c'est souvent le cas dans ces professions, direction Paris. Elle commence dans un lycee. C'est sportif, mais c'est tous ce qu'estelle attendais, elle s'epanoui dans sa profession. 
 
 L'histoire d'Estelle est une affaire a suivre. Elle habite toujours a Paris, et elle apprecie toujours sa profession. Et une fois de plus, elle n'est pas seul, les copains ne sont jamais loin! Simeon, Jeanne, Elisa, Val, il y a de quoi s'amuser.
-
-Que dire de plus sur Estelle? En un mot: raisonnable. Une des premieres a avoir eu le permis, mais la derniere a pouvoir conduire post-fete.

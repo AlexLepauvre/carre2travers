@@ -13,7 +13,10 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/XavierLecoq.jpeg" alt="XavierLecoq" style="float: right; width: auto; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/XavierLecoq.jpg" alt="XavierLecoq" style="float: right; width: auto; height: auto;"/>
+
+# La version courte
+Carrelage, pain, plus rien n'a de secret pour cet homme tout-terrain!
 
 
 
