@@ -5,7 +5,7 @@ category: home
 ---
 
 # Vous etes cordialement invites aux 30 ans des membres de l'association du Carre de Travers
-Marquez la date sur votre calendrier de toute urgence, vous ne voudrez sûrement pas rater cet événement.
+Marquez la date sur votre calendrier de toute urgence, vous ne voudrez sûrement pas rater cet événement (prive, sur invitation).
 Vous êtes invités à l'anniversaire collectif de l'association du Carré de Travers. L'événement se tiendra sur 3 soirs :
 **Du 14 au 17 Aout** (plus d'informations ci-dessous).
 
@@ -20,5 +20,5 @@ L'anniversaire se fêtera sur trois jours (du 14 au 17 Aout). **Le premier soir 
 
 Nous n'attendons pas de cadeaux. A la place, une cagnotte sera mise en place et si vous souhaitez participer aux frais de l'evenemment (raboulez les thunes)!
 
-# Les regles du jeux
+# Les regles du jeu
 Étant donné l'ampleur de l'événement, nous attendons de chacun une conduite respectueuse. Nous avons préparé une charte de bonne conduite que nous attendons que tous les invités respectent durant l'événement: voir ici. 

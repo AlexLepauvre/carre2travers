@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/SimeonLepauvre.jpg" alt="SimeonLepauvre" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/SimeonLepauvre.jpg" alt="SimeonLepauvre" style="float: right; width: auto; height: auto;"/>
 
 
 Comme le titre l'indique, je me prénomme Simeon Lepauvre. Je suis né le 5 septembre 1994 à l'hôpital de Mayenne, sous-préfecture de la Mayenne. Si vous avez bien lu les profils des autres hôtes, vous remarquerez que je suis né le même jour qu'Alex Lepauvre. Eh oui, nous sommes frères jumeaux ! Et si vous avez lu la biographie, je suis le frère qui préférait lire des livres à l'intérieur plutôt que de jouer avec lui à l'extérieur (pas très sympa de ma part, il faut bien l'avouer). Du coup, je n'ai pas trop d'histoire à raconter sur mon enfance, parce que je ne faisais pas grand-chose d'intéressant.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alex Lepauvre
-subtitle: Membre emerite de l'association du carre 2 travers
+subtitle: Docteur President
 category: [membres, home]
 banner:
   image: /assets/images/banners/posts_banner.jpg
@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/AlexLepauvre.jpg" alt="AlexLepauvre" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/AlexLepauvre.jpg" alt="AlexLepauvre" style="float: right; width: auto; height: auto;"/>
 
 Comme le titre l'indique, je me prénomme Alex Lepauvre. Je suis né le 5 septembre 1994 à l'hôpital de Mayenne, sous-préfecture de la Mayenne. J'ai grandi en compagnie de plusieurs de vos hôtes, pour certains depuis l'école maternelle (d'autres encore même avant). Dans mon enfance, j'aimais passer beaucoup de temps à l'extérieur, je jouais au foot contre le mur tout seul parce que mon frère préférait lire des livres à l'intérieur. En grandissant, je me suis passionné pour la nature et les animaux, j'allais souvent aider mon papy à la ferme pour donner à manger aux vaches, et on a même construit un poulailler ensemble. Une fois, mon père m'a enfermé dedans sans faire exprès, et j'ai dû ramper sous les clôtures pour m'échapper, quelle histoire ça.
 

@@ -13,7 +13,7 @@ banner:
   subheading_style: "color: gold"
 ---
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/members/LudivineFiault.jpg" alt="LudivineFiault" style="float: right; width: 300px; height: auto;"/>
+<img src="{{site.baseurl | prepend: site.url}}assets/images/members/LudivineFiault.jpg" alt="LudivineFiault" style="float: right; width: auto; height: auto;"/>
 
 
 
