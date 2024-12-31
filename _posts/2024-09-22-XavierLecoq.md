@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xavier Lecoq
-subtitle: Membre emerite de l'association du carre 2 travers
+subtitle: Tresorier
 category: [membres, home]
 banner:
   image: /assets/images/banners/posts_banner.jpg
