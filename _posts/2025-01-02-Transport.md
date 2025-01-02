@@ -34,11 +34,11 @@ Merci de consulter le tableau ci-dessous, de vous inscrire avec le conducteur ou
 
 # Heure d'arrive en gare de Laval
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/transport/HeuresLaval.jpg" alt="DodoTracteur" style="width: auto; height: auto;" />
+<img src="{{site.baseurl | prepend: site.url}}assets/images/transport/HeuresLaval.JPG" alt="DodoTracteur" style="width: auto; height: auto;" />
 
 # Heure d'arrive en gare de Flers
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/transport/HeuresFlers.jpg" alt="DodoTracteur" style="width: auto; height: auto;" />
+<img src="{{site.baseurl | prepend: site.url}}assets/images/transport/HeuresFlers.JPG" alt="DodoTracteur" style="width: auto; height: auto;" />
 
 # Tableau de covoiturage
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTy2he1jt8fF3wvk-uUUgJgAAND5KJZZdbwHeCzABdGdE44T_WXBc2n85vS2KZxj_SI5EEqUFAjxqN/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTy2he1jt8fF3wvk-uUUgJgAAND5KJZZdbwHeCzABdGdE44T_WXBc2n85vS2KZxj_SI5EEqUFAjxqN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
