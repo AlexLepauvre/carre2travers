@@ -13,24 +13,27 @@ banner:
   subheading_style: "color: gold"
 ---
 
-Pour notre événement, nous nous engageons à réduire notre impact sur l’environnement autant que possible.
+La soiree se deroulera à **La Gaubardière, Colombiers-du-Plessis**.
 
-Malheureusement, le lieu des festivités n’est accessible directement que par voiture. Nous anticipons que nos invité·e·s arriveront par trois modes de transport différents :
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2231.7855870419817!2d-0.8366684243221806!3d48.39572613315505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48090d4cc679a421%3A0xf2a86a3b8cfa2660!2sLa%20Gauberdi%C3%A8re%2C%2053120%20Colombiers-du-Plessis!5e1!3m2!1sfr!2sfr!4v1735645950678!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-- Voiture
-- Train (jusqu’à l’une des gares les plus proches : Flers ou Laval)
-- Covoiturage (jusqu’à une ville proche)
+Ce lieu mythique n'est malheureusement pas accessible directement par les transports en commun. Nous recommandons les options suivantes pour nos invité·e·s :
+- Train jusqu’à l’une des gares les plus proches (Laval ou Flers), suivi d’une prise en charge en voiture pour rejoindre l’événement.
+- Covoiturage jusqu’au point le plus proche (idéalement Laval ou Flers pour combiner avec les invité·e·s arrivant en train).
+- Vélo directement jusqu’à l’événement (un itinéraire vélo est disponible ci-dessous).
+- Voiture jusqu’à La Gaubardière. Notez que les places de parking sur place seront limitées et que les conducteurs pourraient devoir se garer à proximité pour être ensuite récupérés par des voitures balais.
 
-Pour limiter les émissions de gaz à effet de serre, nous encourageons nos invité·e·s à s’organiser afin que les personnes arrivant en voiture avec des places disponibles puissent récupérer celles et ceux arrivant en train ou en covoiturage.
+# Engagement écologique
 
-# Pour les conducteurs et conductrices
+Pour notre événement, nous nous engageons à réduire notre impact sur l’environnement autant que possible. Ainsi, nous encourageons nos invité·e·s à s’organiser pour que les personnes arrivant en voiture avec des places disponibles puissent récupérer celles et ceux arrivant en train ou en covoiturage.
 
-Nous recommandons aux conducteurs et conductrices d’ajouter Laval ou Flers à leur itinéraire et d’ajuster leur arrivée pour coïncider avec les horaires des trains dans les gares respectives (voir l’emploi du temps ci-dessous). Une fois l’itinéraire choisi, merci d’inscrire dans le tableau Excel ci-dessous votre heure d’arrivée en gare ainsi que le nombre de places disponibles dans votre véhicule.
+# Instructions pour les conducteurs et conductrices
 
-# Pour les arrivant·e·s en train ou en covoiturage
+Nous recommandons aux conducteurs et conductrices d’ajouter Laval ou Flers à leur itinéraire et d’ajuster leur arrivée pour coïncider avec les horaires des trains dans les gares respectives (voir l’emploi du temps ci-dessous). Une fois l’itinéraire choisi, merci de renseigner dans le tableau Excel ci-dessous votre heure d’arrivée en gare ainsi que le nombre de places disponibles dans votre véhicule.
 
-Merci de consulter le tableau ci-dessous, de vous inscrire avec le conducteur ou la conductrice de votre choix, et de respecter le nombre de places disponibles.
+# Instructions pour les arrivant·e·s en train ou en covoiturage
 
+Merci de consulter le tableau ci-dessous, de vous inscrire auprès du conducteur ou de la conductrice de votre choix, et de respecter le nombre de places disponibles dans le véhicule.
 
 # Heure d'arrive en gare de Laval
 
