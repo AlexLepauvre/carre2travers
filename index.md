@@ -42,5 +42,5 @@ Merci de nous transmettre vos réponses avant le **28 février** !
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="640" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Formulaire Amis (English)
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="640" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFmwiLeppf45MX0sJzXmcxQOU4Y66o5UCocP7g90scpwlPsQ/viewform?embedded=true" width="640" height="2099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
