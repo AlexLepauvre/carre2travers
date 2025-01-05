@@ -36,11 +36,11 @@ Pour faciliter l'organisation, nous avons créé deux formulaires à remplir sel
 Merci de nous transmettre vos réponses avant le **28 février** !
 
 ## Formulaire Famille
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgbpLE0TwkVkHPSGVVk-7US-HPCrz8eN7U6V198264gbSjcQ/viewform?embedded=true" width="320" height="2586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgbpLE0TwkVkHPSGVVk-7US-HPCrz8eN7U6V198264gbSjcQ/viewform?embedded=true" width="416" height="2586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Formulaire Amis
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="320" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="416" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Formulaire Amis (English)
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFmwiLeppf45MX0sJzXmcxQOU4Y66o5UCocP7g90scpwlPsQ/viewform?embedded=true" width="320" height="2099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFmwiLeppf45MX0sJzXmcxQOU4Y66o5UCocP7g90scpwlPsQ/viewform?embedded=true" width="416" height="2099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
