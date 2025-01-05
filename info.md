@@ -1,5 +1,5 @@
 ---
-layout: category-articles
+layout: articles
 title: "info"
 category: info
 ---

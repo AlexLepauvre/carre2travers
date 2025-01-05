@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: articles
 title: "L'association"
 ---

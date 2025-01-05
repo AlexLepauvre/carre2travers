@@ -1,5 +1,5 @@
 ---
-layout: category-articles
+layout: articles
 title: "Blog"
 category: blog
 ---
