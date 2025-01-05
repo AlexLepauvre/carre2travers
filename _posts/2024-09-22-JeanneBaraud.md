@@ -17,4 +17,5 @@ banner:
 
 
 # La version courte
-Originaire de Bretagne, s'est vite integree a la maternelle apres avoir participe a une sessioon d'autobutantes a la foire fleurie communale
+Originaire de Bretagne, s'est vite intégrée à la maternelle après avoir participé à une session d'autobutantes à la foire fleurie communale.
+

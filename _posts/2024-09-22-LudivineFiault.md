@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ludivine Fiault
-subtitle: Membre emerite de l'association du carre 2 travers
+subtitle: Invite d'honneur
 category: [membres, home]
 banner:
   image: /assets/images/banners/posts_banner.jpg

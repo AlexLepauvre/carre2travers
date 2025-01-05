@@ -16,7 +16,8 @@ banner:
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/MarineBrault.jpg" alt="MarineBrault" style="float: right; width: auto; height: auto;"/>
 
 # La version courte
-Connue dans le departement pour avoir une conduite qualifiee de sportive
+Connue dans le département pour avoir une conduite qualifiée de sportive.
+
 
 
 

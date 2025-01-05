@@ -16,7 +16,8 @@ banner:
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/ElisaPrel.jpg" alt="ElisaPrel" style="float: right; width: auto; height: auto;"/>
 
 # La version courte
-N'a pas encore 30 ans, n'est pas vraiment de la Mayenne, mais sera bien presente pour le Limbo geant le 17 Aout
+N'a pas encore 30 ans, n'est pas vraiment de la Mayenne, mais sera bien présente pour le Limbo géant le 17 août.
+
 
 
 

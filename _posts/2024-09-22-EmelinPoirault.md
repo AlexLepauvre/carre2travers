@@ -16,9 +16,7 @@ banner:
 <img src="{{site.baseurl | prepend: site.url}}assets/images/members/EmelinePoyrault.jpg" alt="EmelinPoirault" style="float: right; width: auto; height: auto;"/>
 
 # La version courte
-A grandi dans le sud, dans le hameau de Belgeard, a une dizaine de kilometres de Mayenne-ville
-
-
+A grandi dans le sud, dans le hameau de Belgeard, à une dizaine de kilomètres de Mayenne-ville.
 
 
 

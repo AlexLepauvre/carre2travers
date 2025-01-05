@@ -17,8 +17,7 @@ banner:
 
 # La version courte
 
-En reconversion DJ, programme dans les hauts lieux de fetes parisiennes, et exceptionellement sous la grange de la Grauberdiere a 14h15 le 16 Aout
-
+En reconversion DJ, programmée dans les hauts lieux de fêtes parisiennes, et exceptionnellement sous la grange de la Groberdière à 14h15 le 16 août.
 
 
 
