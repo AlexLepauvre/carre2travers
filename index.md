@@ -12,7 +12,7 @@ Nous vous convions à célébrer ensemble les 30 ans collectifs des membres de l
 
 L'événement aura lieu sur trois soirées, du **14 au 17 août**, à **La Gaubardière, Colombiers-du-Plessis**.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2231.7855870419817!2d-0.8366684243221806!3d48.39572613315505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48090d4cc679a421%3A0xf2a86a3b8cfa2660!2sLa%20Gauberdi%C3%A8re%2C%2053120%20Colombiers-du-Plessis!5e1!3m2!1sfr!2sfr!4v1735645950678!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6679.22852703973!2d-0.8415384215830052!3d48.39434539120172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48090d4cc679a421%3A0xf2a86a3b8cfa2660!2sLa%20Gauberdi%C3%A8re%2C%2053120%20Colombiers-du-Plessis!5e1!3m2!1sfr!2sfr!4v1736095445962!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
  
 **Le premier soir (14 août) sera une soirée familiale, réservée exclusivement à la famille. Les ami·e·s seront les bienvenu·e·s du 15 au 17 août** (à partir du 15 août, dès l’heure qui vous convient). 
