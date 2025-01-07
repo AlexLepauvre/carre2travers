@@ -19,23 +19,3 @@ banner:
 Camille était au collège privé, mais elle a su dépasser les frontières et imposer son style !
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

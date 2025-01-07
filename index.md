@@ -41,12 +41,12 @@ Merci de nous transmettre vos réponses avant le **28 février** !
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgbpLE0TwkVkHPSGVVk-7US-HPCrz8eN7U6V198264gbSjcQ/viewform?embedded=true" width="400" height="2586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
-## Formulaire Amis
+## Formulaire ami·e·s
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="400" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
-## Formulaire Amis (English)
+## Formulaire ami·e·s (English)
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFmwiLeppf45MX0sJzXmcxQOU4Y66o5UCocP7g90scpwlPsQ/viewform?embedded=true" width="400" height="2099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
