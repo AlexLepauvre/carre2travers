@@ -10,7 +10,7 @@ Réservez la date dès maintenant dans votre calendrier, cet événement excepti
 
 Nous vous convions à célébrer ensemble les 30 ans collectifs des membres de l'association du Carré de Travers.
 
-L'événement aura lieu sur trois soirées, du **14 au 17 août**, à **La Gaubardière, Colombiers-du-Plessis** (voir [ici](https://alexlepauvre.github.io/carre2travers/info/home/2025/01/02/Transport.html) pour s'y rendre).
+L'événement aura lieu sur trois soirées, du **14 au 17 août**, à **La Gauberdière, Colombiers-du-Plessis** (voir [ici](https://alexlepauvre.github.io/carre2travers/info/home/2025/01/02/Transport.html) pour s'y rendre).
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6679.22852703973!2d-0.8415384215830052!3d48.39434539120172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48090d4cc679a421%3A0xf2a86a3b8cfa2660!2sLa%20Gauberdi%C3%A8re%2C%2053120%20Colombiers-du-Plessis!5e1!3m2!1sfr!2sfr!4v1736095445962!5m2!1sfr!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
