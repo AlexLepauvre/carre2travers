@@ -61,8 +61,8 @@ Découvrez la ville fortifiée de Saint-Malo, puis dirigez-vous vers Perros-Guir
 Peu connue du grand public, cette région offre des paysages côtiers spectaculaires. Ploudalmézeau et ses environs sont parfaits pour camper et profiter de superbes sessions de surf.
 
 <figure style="text-align: center;">
-  <img src="{{site.baseurl | prepend: site.url}}assets/images/info/coteGranitRose.jpg" 
-       alt="coteGranitRose" style="width: auto; height: auto;"/>
+  <img src="{{site.baseurl | prepend: site.url}}assets/images/info/coteDesAbers.jpg" 
+       alt="coteDesAbers" style="width: auto; height: auto;"/>
   <figcaption>La cote des Abers</figcaption>
 </figure>
 
