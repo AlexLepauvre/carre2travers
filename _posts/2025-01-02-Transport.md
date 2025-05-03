@@ -49,11 +49,11 @@ Pour les invité·e·s arrivant à Laval ou Flers, voici les options recommandé
 
 En cas d’épuisement des options de covoiturage, des navettes seront mises en place par les organisateurs pour garantir que chaque invité·e puisse rejoindre les lieux.
 
-Pour le covoiturage, inscrivez-vous auprès du conducteur ou de la conductrice de votre choix et respectez le nombre de places disponibles dans le véhicule.
+Pour le covoiturage, inscrivez-vous avec le lien ci-dessous.
 
-# Tableau de covoiturage
+# Plateforme de covoiturage
 
-[cliquer ici](https://docs.google.com/spreadsheets/d/1aUJ1ZtuVQMFsRd-tPkUsFhuKHjbfZ6IALi0hF30_AK0/edit?usp=sharing)
+[cliquer ici](https://togetzer.com/covoiturage-evenement/am4ebm)
 
 # Itineraire velo Laval-La Gauberdiere
 <iframe style="border:none" src="https://en.frame.mapy.cz/s/luperopema" width="400" height="280" frameborder="0"></iframe>
