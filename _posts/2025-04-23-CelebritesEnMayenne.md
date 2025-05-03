@@ -66,7 +66,7 @@ Au-delà des liens historiques, certain·es artistes choisissent simplement la M
 
 On se rappelle par exemple du passage du groupe Superbus à Gorron. Iels ont tellement aimé l’endroit qu’une partie de leur clip a été tournée sur la terrasse du Bar des Sports (à 1:00 dans la vidéo)!
 
-<div class="container"> <iframe width="560" src="https://www.youtube.com/watch?v=sByjPfcOO68"></iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sByjPfcOO68?si=xHD86E7zanB4PQp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Le 30 août 1970, Johnny Hallyday enflammait la scène à Saint-Denis-d’Anjou. Des fans sont venus de toute la région pour ce concert resté mythique !
 
@@ -79,7 +79,7 @@ Même Brad Pitt n’a pas résisté à l’appel de la Mayenne : l’an dernier,
 Enfin, la visite la plus insolite : Sabrina Carpenter.
 Ancienne star Disney devenue chanteuse internationale, elle a choisi de se ressourcer à Chailland, où elle a enregistré le tube Espresso dans le Flow Studio local, après un concert à Paris. Ce morceau a explosé à la radio et même inspiré un sketch culte du Saturday Night Live.
 
-<div class="container"> <iframe width="560" src="https://www.youtube.com/watch?v=eVli-tstM5E"></iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eVli-tstM5E?si=YCOLKeCZrOZAtJt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Un itinéraire sur les traces de vos stars préférées
 
