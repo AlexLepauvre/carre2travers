@@ -20,6 +20,21 @@ L'événement aura lieu sur trois soirées, du **14 au 17 août**, à **La Gaube
 
 Les participant·e·s auront la possibilité de dormir sur place sous tente.
 
+# Inscrivez vous a la newsletter
+Pour etre aux courants des dernieres news:
+
+<div style="max-width: 400px; margin: 2em auto; padding: 1.5em; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9; font-family: sans-serif;">
+  <h3 style="margin-top: 0;">📬 Restez informé·e</h3>
+  <p>Recevez un email à chaque nouvelle publication !</p>
+  <form action="https://blogtrottr.com" method="get" target="_blank">
+    <input type="hidden" name="submit" value="Subscribe">
+    <input type="hidden" name="url" value="https://yourdomain.com/feed.xml">
+    <input type="email" name="address" placeholder="Votre adresse email" required style="width: 100%; padding: 0.5em; margin-bottom: 0.5em; border: 1px solid #ccc; border-radius: 4px;">
+    <button type="submit" style="width: 100%; background-color: #4CAF50; color: white; padding: 0.6em; border: none; border-radius: 4px; font-weight: bold;">S’abonner</button>
+  </form>
+</div>
+
+
 # L'association du Carré de Travers
 Cette association regroupe [14 membres](http://127.0.0.1:4000/carre2travers/membres.html), tou·te·s fier·e·s de leurs origines mayennaises. Nous nous sommes rencontré·e·s au fil de nos vies respectives, certaines amitiés datant de l'école maternelle. Ce groupe d'ami·e·s inséparable a eu l'idée d'organiser une grande fête commune, car, soyons honnêtes, il aurait été difficile de trouver le temps pour célébrer 14 anniversaires individuels en une seule année !
 
