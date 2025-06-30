@@ -44,25 +44,3 @@ Nous ne souhaitons pas recevoir de cadeaux. À la place, une cagnotte sera mise 
 
 Compte tenu de l’ampleur de cette fête, nous attendons de tou·te·s un comportement respectueux. Une charte de bonne conduite a été rédigée, et nous invitons chaque participant·e à la respecter tout au long de l’événement (a venir...)
 
-# Inscriptions
-Pour faciliter l'organisation, nous avons créé deux formulaires à remplir selon votre invitation :
-- Si vous êtes convié·e en tant que membre de la famille, merci de répondre au premier formulaire.
-- Si vous êtes convié·e en tant qu’ami·e, merci de remplir le deuxième formulaire.
-
-Merci de nous transmettre vos réponses avant le **28 février** !
-
-## Formulaire Famille
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgbpLE0TwkVkHPSGVVk-7US-HPCrz8eN7U6V198264gbSjcQ/viewform?embedded=true" width="400" height="2586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
-
-## Formulaire ami·e·s
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZymnm91ztlNTOK64-nKzp_7WEf9T85KupdMMYu72pawA50Q/viewform?embedded=true" width="400" height="2068" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
-
-## Formulaire ami·e·s (English)
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFmwiLeppf45MX0sJzXmcxQOU4Y66o5UCocP7g90scpwlPsQ/viewform?embedded=true" width="400" height="2099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</div>
-
